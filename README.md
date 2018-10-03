@@ -72,4 +72,4 @@ This will execute the script from a new terminal window
 
 Save the Autostart File
 
-When you have entered the proper commands to launch your script, press Ctrl+X. You will be asked if you would like to save your changes, type Y and press ↵ Enter.
+When you have entered the proper commands to launch the script, press Ctrl+X. You will be asked if you would like to save your changes, type Y and press ↵ Enter.
