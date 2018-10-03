@@ -10,7 +10,7 @@ raspi camera v2
 a button, led, 220 ohm resistor and breadboard
 Thermal printer to suit a raspi 3. I used this printer https://www.adafruit.com/product/2751 . Note you will need to use the printer USB interface, rather than TTL serial.
 
-p.s.follow the wireing from the cartoonify repo (https://github.com/danmacnish/cartoonify/blob/master/schematics/cartoon_camera_schematic_bb.png) but dont wire the button or the thermal printer apart from the red and black wires on the thermal printer IMPORTANT!!!!Use 4 AA eneloop batteries since these can power the pi and thermal printer safely
+p.s.follow the wireing from the cartoonify repo (https://github.com/danmacnish/cartoonify/blob/master/schematics/cartoon_camera_schematic_bb.png) but dont wire the button or the thermal printer apart from the red and black wires on the thermal printer IMPORTANT!!!!Use 4 AA eneloop batteries since these can power the pi and thermal printer safely also my battery box had the switch pre-installed so i didn't need to mess with switch wireing (trust me its hard)
 
 #Let's GO!
 1. run    cd /home/pi and clone this repo with this command       git clone https://github.com/Uncraftablecreeper/RPI-Polaroid
